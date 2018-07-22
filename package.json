@@ -58,6 +58,6 @@
         "mocha": "^2.5.3",
 
         "eslint": "5.2.0",
-            "eslint-config-open-zigbee": "0.0.2r"
+            "eslint-config-open-zigbee": "0.0.2"
     }
 }
