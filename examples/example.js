@@ -2,7 +2,7 @@
 const ccznp = require('../index.js');
 
 const spCfg = {
-    path: "/dev/ttyACM0",
+    path: '/dev/ttyACM0',
     options: {
         baudRate: 115200,
         rtscts: true,
